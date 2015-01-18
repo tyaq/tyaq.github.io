@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A New Website! Habib Innovation Lab Operational"
-date:   2015-01-18 14:34:25
+title:  "A New Website! Habib Innovation Lab is Operational"
+date:   2015-01-18 22:34:25
 categories: development design
 tags: featured
 ---
