@@ -3,4 +3,4 @@ layout: defualt
 permalink: /404.html
 title: Error 404: Page Not Found!
 ---
-<p>I'm sorry, the page could not be found.</p>
+I'm sorry, the page could not be found.
