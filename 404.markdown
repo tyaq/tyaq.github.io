@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: default
+page-class: page-404
 permalink: /404.html
 title: Error 404: Page Not Found!
 date:   2015-01-18 22:34:25
