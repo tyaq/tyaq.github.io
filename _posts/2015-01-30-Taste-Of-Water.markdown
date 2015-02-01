@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "The Tase of Water"
+title:  "The Taste of Water"
 date:   2015-01-30 22:34:25
 tags: design featured
 image: /assets/article_images/2015-01-30-Taste-Of-Water/britaBottle.png
 ---
-*Water as a liquid has no shape. It acquires definition from its surroundings.*
+> Water as a liquid has no shape. It acquires definition from its surroundings.*
 
 Let me write you a review of the Brita bottle in the form of story. I don’t know why, but I want to.
 
 **TL;DR**
-Brita bottle provide a consistent taste to water. It’s cheap and durable enough for a college student.
+Brita bottle provide a consistent tasting to water. It’s cheap and durable enough for a college student.
  
 It was late August when Sean heard he was cut from the college’s varsity soccer team. Sean had played in the state championship TWICE. He left his family in the city to move to a school in the middle of farms, where the air reeked with the smell of manure. On the third floor of an old dorm room filled with asbestos he stood there in fear. He was afraid because as freshmen he realized he didn’t have his family, or any friends. He was afraid because everything around him was different. The people, sounds, his bed, and even the water were all different from what he grew up with. In the old dorm there were no water fountains you had to go to bathroom to get water. The water had a distinct taste of farm runoff mixed with copper piping. From playing soccer he developed the habit of drinking 10 bottles of water every day. So when he went back to school shopping he decided he wouldn’t by crates of water like the other hopeless freshmen. He needed a water bottle, something reusable and durable for his hustling around campus.
 
