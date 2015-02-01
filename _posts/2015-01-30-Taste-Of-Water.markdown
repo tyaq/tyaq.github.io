@@ -5,7 +5,8 @@ date:   2015-01-30 22:34:25
 tags: design featured
 image: /assets/article_images/2015-01-30-Taste-Of-Water/britaBottle.png
 ---
-> Water as a liquid has no shape. It acquires definition from its surroundings.*
+> Water as a liquid has no shape.
+> It acquires definition from its surroundings.
 
 Let me write you a review of the Brita bottle in the form of story. I don’t know why, but I want to.
 
