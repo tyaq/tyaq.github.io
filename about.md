@@ -8,4 +8,4 @@ My name is Ish Habib I am a graduating senior physics and mathematics major at S
 
 Last year I was awarded seed funding to build a toilet training system for children with autism. Before that I performed statistical analysis for the college, and before that I conducted reaserch studying the dissolution rate of young stellar clusters (in laymen’s terms, studying how the universe ages).
 
-While you're here be sure to check out my [github](https://github.com/tyaq) and [codepen](hhttp://codepen.io/tyaq/) profiles.
+While you're here be sure to check out my [github](https://github.com/tyaq) and [codepen](http://codepen.io/tyaq/) profiles.
