@@ -4,14 +4,8 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+My name is Ish Habib I am a graduating senior physics and mathematics major at SUNY Geneseo. I am passionate about business and technology. I study entrepreneurship, software development trends, design theory, economics, modeling techniques, and... anything that is at this intersection.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+Last year I was awarded seed funding to build a toilet training system for children with autism. Before that I performed statistical analysis for the college, and before that I conducted reaserch studying the dissolution rate of young stellar clusters (in laymen’s terms, studying how the universe ages).
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+While you're here be sure to check out my [github](https://github.com/tyaq) and [codepen](hhttp://codepen.io/tyaq/) profiles.
