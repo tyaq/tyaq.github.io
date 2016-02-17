@@ -48,9 +48,16 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/tyaq
-    desc:	Fork me on github
+  - icon:	codepen
+    url:	http://codepen.io/tyaq/
+    desc:	Follow me on codepen
+    share_url:
+    share_title:
+    share_link:
+
+  - icon: github
+    url:  https://github.com/tyaq
+    desc: Fork me on github
     share_url:
     share_title:
     share_link:
