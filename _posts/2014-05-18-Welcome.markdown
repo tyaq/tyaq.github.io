@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Hey There!"
+date:   2014-05-18 22:34:25
+tags: featured
+<!-- image: /assets/article_images/2015-01-18-Habib-Labs/desktop.JPG -->
+---
+I'm Ish and this is my blog. To learn a little bit about me, and my work, check out the links above.
