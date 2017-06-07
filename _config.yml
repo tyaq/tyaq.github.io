@@ -1,7 +1,5 @@
 # Build settings
-highlighter: rouge
 gems:
-  - jekyll-sitemap  
   - jemoji
   - jekyll-paginate
 
@@ -13,6 +11,7 @@ description: > # this means to ignore newlines until "email:"
 email: ishtyaq.habib@gmail.com
 #blog logo
 logo: "/assets/images/logo.png"
+loat_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/StarTrailsOpt.png"
 
@@ -31,8 +30,24 @@ twitter_handle: '@t_yaq'
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
 
+#google_analytics: UA-XXXXX-X
+
 # social icons and sharing options
 social:
+  - icon: github
+    url:  https://github.com/tyaq
+    desc: Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	codepen
+    url:	http://codepen.io/tyaq/
+    desc:	Follow me on codepen
+    share_url:
+    share_title:
+    share_link:
+
   - icon:	twitter
     url:	https://twitter.com/t_yaq
     desc: Follow me on twitter
@@ -46,20 +61,6 @@ social:
 #    share_url: https://www.facebook.com/sharer.php
 #    share_title: ?t=
 #    share_link: "&amp;u="
-
-  - icon:	codepen
-    url:	http://codepen.io/tyaq/
-    desc:	Follow me on codepen
-    share_url:
-    share_title:
-    share_link:
-
-  - icon: github
-    url:  https://github.com/tyaq
-    desc: Fork me on github
-    share_url:
-    share_title:
-    share_link:
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
