@@ -11,7 +11,7 @@ I remember coming across an [image on reddit](https://www.reddit.com/r/dataisbea
 When I scrolled down to the comments I learned that I wasn&#39;t alone in this sentiment. Some people wanted even more. There was a discussion of whether assets or market cap are better measure for the title &quot;Biggest Companies&quot;. So, I got to work, found my data source, the [Forbes Global 2000](https://www.forbes.com/global2000/list/). It had all the metrics people wanted to see. After scraping the list in Python, I decided to coalesce some of the industries, by using broader terminology. For example, I labeled&nbsp;&quot;Major Banks&quot;, &quot;Diversified Insurance&quot; and &quot;Investment Services&quot; as an all-encompassing and&nbsp;more understandable &quot;Finance and Insurance&quot; industry.
 
 ## Design
-#
+
 Then I created my first graph. It was a treemap, just like the image on reddit, but with profit instead of revenue. I was immediately displeased with the result. I had a graph of 50 companies, but I had no way of comparing them to the revenue chart from reddit. I knew I had to put them both on the same chart. Also, it is poor form to manipulate two free variables, height and width, to show one dependent value, profit.
 
 ![Top 50 Companies by Profit, shown with a D3 Treemap](/assets/article_images/2017-06-02-Revenue/profits-tree.png "Top 50 Companies by Profit, shown with a D3 Treemap")
@@ -27,8 +27,11 @@ I love this chart, it accurately portrays profit and revenue. This is what I wou
 Which lead to the final graph. Bubbles to show market size. They are accurate in that only one free variable, radius, shows our one dependent value, profit or revenue. It&#39;s also beautiful in that the size of the bubble shows size of the revenue.
 
 ## Final Interactive Result
-#
-<iframe scrolling='no' title='Top 100 Companies in 2017 Forbes Global 2000 shown in D3 Bubble' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;height:auto;' src="http://ishtyaqhabib.com/Top100Companies/"></iframe>
+
+<figure class="image">
+<iframe scrolling='no' title='Top 100 Companies in 2017 Forbes Global 2000 shown in D3 Bubble' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;max-height: 530px;height: 55vw;' src="http://ishtyaqhabib.com/Top100Companies/"></iframe>
+<figcaption>Top 100 Companies by Revenue and Profit</figcaption>
+</figure>
 
 So, happy with shape of the graph I set out make it interactive. The first thing I did is show country of origin, market cap, and asset value in a tip when a company is hovered over. Also, I made it so companies in the same industry are highlighted when their label is hovered over. And as a cheeky final touch, I made it so the company names rotate when you hover over them. Sometimes the stay rotating, just to keep the graph looking alive.
 
