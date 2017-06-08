@@ -30,7 +30,7 @@ Which lead to the final graph. Bubbles to show market size. They are accurate in
 
 <figure class="image">
 <iframe scrolling='no' title='Top 100 Companies in 2017 Forbes Global 2000 shown in D3 Bubble' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;max-height: 530px;height: 55vw;' src="http://ishtyaqhabib.com/Top100Companies/"></iframe>
-<figcaption>Top 100 Companies by Revenue and Profit <a src="http://ishtyaqhabib.com/Top100Companies/">(Enlarge)</a></figcaption>
+<figcaption>Top 100 Companies by Revenue and Profit <a href="http://ishtyaqhabib.com/Top100Companies/">(Enlarge)</a></figcaption>
 </figure>
 
 So, happy with shape of the graph I set out make it interactive. The first thing I did is show country of origin, market cap, and asset value in a tip when a company is hovered over. Also, I made it so companies in the same industry are highlighted when their label is hovered over. And as a cheeky final touch, I made it so the company names rotate when you hover over them. Sometimes the stay rotating, just to keep the graph looking alive.
