@@ -28,7 +28,7 @@ baseurl: ""
 twitter_handle: '@t_yaq'
 
 #fill in disqus shortname to use disqus
-#disqus: disqus-shortname
+disqus: ishtyaqhabib #disqus-shortname
 
 google_analytics: UA-41085222-1
 
